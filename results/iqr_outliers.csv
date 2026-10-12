@@ -1,0 +1,12 @@
+Variable,IQR outliers (raw) %,IQR outliers (log scale) %
+PM2.5,4.65,0.0
+PM10,3.54,0.2
+SO2,8.64,0.01
+NO2,1.72,1.61
+CO,7.01,0.31
+O3,4.07,0.0
+TEMP,0.0,0.0
+PRES,0.0,0.0
+DEWP,0.0,0.0
+RAIN,3.93,3.93
+WSPM,5.49,1.11

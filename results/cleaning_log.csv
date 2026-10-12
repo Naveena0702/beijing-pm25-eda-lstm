@@ -1,0 +1,13 @@
+,cap_removed_PM2.5,cap_removed_PM10,cap_removed_CO,cap_removed_O3,hampel_spikes_PM2.5,interpolated_PM2.5,interpolated_PM10,interpolated_SO2,interpolated_NO2,interpolated_CO,interpolated_O3,interpolated_TEMP,interpolated_PRES,interpolated_DEWP,interpolated_RAIN,interpolated_WSPM,ffilled_wd,remaining_missing_any
+Aotizhongxin,0,0,5,0,21,486,286,369,528,822,1068,20,20,20,20,14,81,1230
+Changping,0,1,2,0,36,457,346,473,512,1041,449,53,50,53,51,43,140,680
+Dingling,0,0,1,0,33,612,574,597,1146,828,800,53,50,53,51,43,140,1683
+Dongsi,0,0,10,16,15,502,359,467,390,633,484,20,20,20,20,14,78,3658
+Guanyuan,0,1,7,0,15,430,344,327,408,706,895,20,20,20,20,14,81,1361
+Gucheng,0,0,3,0,26,593,356,380,473,714,414,51,50,51,43,42,159,1149
+Huairou,0,0,3,0,26,595,393,572,1161,921,707,51,53,53,55,49,302,716
+Nongzhanguan,0,0,6,0,17,589,385,391,551,756,451,20,20,20,20,14,78,543
+Shunyi,0,1,7,0,22,565,484,837,792,1196,881,51,51,54,51,44,483,2181
+Tiantan,0,0,5,2,22,699,597,568,626,921,695,20,20,20,20,14,78,749
+Wanliu,0,0,7,0,25,407,284,550,497,600,1585,20,20,20,20,14,123,2249
+Wanshouxigong,1,0,0,0,32,660,415,393,508,908,821,19,19,19,19,13,79,453

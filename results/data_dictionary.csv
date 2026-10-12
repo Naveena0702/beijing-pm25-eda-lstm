@@ -1,0 +1,19 @@
+Field,Type,Unit,Meaning
+No,Integer (row id),-,Row number within a station file
+year,Integer,-,Year of record
+month,Integer,-,Month
+day,Integer,-,Day of month
+hour,Integer,-,Hour (0-23)
+PM2.5,Continuous,ug/m3,Fine particulate matter (diameter <= 2.5 um)
+PM10,Continuous,ug/m3,Inhalable particles (<= 10 um)
+SO2,Continuous,ug/m3,Sulphur dioxide
+NO2,Continuous,ug/m3,Nitrogen dioxide
+CO,Continuous,ug/m3,Carbon monoxide
+O3,Continuous,ug/m3,Ozone
+TEMP,Continuous,deg C,Air temperature
+PRES,Continuous,hPa,Air pressure
+DEWP,Continuous,deg C,Dew-point temperature
+RAIN,Continuous,mm,Hourly precipitation
+wd,Categorical (16 levels),compass point,Wind direction
+WSPM,Continuous,m/s,Wind speed
+station,Categorical (12 levels),-,Monitoring site
